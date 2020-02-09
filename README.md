@@ -1,2 +1,8 @@
 # Snake-Game
-The vintge snake game.Made with Pygame|Runs on terminal
+The vintage snake game. Made with pygame|Runs on terminal
+
+
+# Requirements
+- Python 3.x
+- pygame
+
